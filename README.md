@@ -6,4 +6,4 @@
  Bibliotecas utilizadas: 
  Objetivos: 
  Resultados: 
- Intrução de uso: 
+ Instrução de uso: 
